@@ -1,0 +1,4 @@
+{
+    "dbUrl":"mongodb://sakshi781996:chatcat1@ds123399.mlab.com:23399/chatcat",
+    "sessionSecret": "Sakshi@123"
+}
